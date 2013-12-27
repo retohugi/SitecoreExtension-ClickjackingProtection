@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>SitecoreExtension.ClickjackingProtection</id>
+        <version>1.0.0.0</version>
+        <title>Sitecore Extension - Clickjacking Protection</title>
+        <authors>Reto Hugi</authors>
+        <owners>Reto Hugi</owners>
+        <licenseUrl>https://github.com/retohugi/SitecoreExtension-ClickJackingProtection/blob/master/LICENSE.txt</licenseUrl>
+		<projectUrl>https://github.com/retohugi/SitecoreExtension-ClickJackingProtection</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>A Sitecore Extension providing Clickjacking protection.</description>
+		<tags>sitecore clickjacking protection</tags>
+        <copyright>Reto Hugi</copyright>
+    </metadata>
+    <files>
+        <file src="App_config\Include\SitecoreExtension.ClickjackingProtection.config" target="content\App_config\Include\SitecoreExtension.ClickjackingProtection.config" />
+        <file src="bin\SitecoreExtension.ClickjackingProtection.dll" target="lib\SitecoreExtension.ClickjackingProtection.dll" />
+    </files>
+</package>
