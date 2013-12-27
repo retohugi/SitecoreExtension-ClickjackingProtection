@@ -1,4 +1,4 @@
-# Clickjack Protection - a Sitecore Extension
+# Clickjacking Protection - a Sitecore Extension
 
 This extension provides basic protection against Clickjacking Attacks (see [Wikipedia](http://en.wikipedia.org/wiki/Clickjacking) for details on what a Clickjack attack is and [OWASP.org](https://www.owasp.org/index.php/Clickjacking_Defense_Cheat_Sheet) for details on different methods of protection against it).
 
@@ -24,5 +24,5 @@ Install via NuGet Gallery
 </pre>
 
 ## Build
-See [Readme.md in the /build folder](https://tbd).
+See [Readme.md in the /build folder](tree/master/build).
 
