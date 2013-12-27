@@ -1,4 +1,4 @@
-	Token Set - A Sitecore Extension
+	Clickjacking Protection - A Sitecore Extension
 	Copyright 2013, Reto Hugi
 	License: http://opensource.org/licenses/lgpl-3.0
 
