@@ -24,5 +24,5 @@ Install via NuGet Gallery
 </pre>
 
 ## Build
-See [Readme.md in the /build folder](tree/master/build).
+See [Readme.md in the /build folder](https://github.com/retohugi/SitecoreExtension-ClickjackingProtection/tree/master/build).
 
